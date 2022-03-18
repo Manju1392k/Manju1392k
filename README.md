@@ -1,4 +1,4 @@
-![Screenshot (142)](https://user-images.githubusercontent.com/66934377/158981419-8c93da03-3eca-4261-bdd5-09d3872c8520.png)
+![finalgithubScreen](https://user-images.githubusercontent.com/66934377/158995063-a41ea800-99d6-4ce2-b36d-f8dac8377cdf.jpg)
 
 # Hello, I'm Sreeram Manjunath 👋
 
