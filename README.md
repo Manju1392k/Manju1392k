@@ -22,7 +22,7 @@
 
 # Languages and Tool's I'm Working on
 
-### Frontend
+## Frontend
 ![icons8-html-5-48](https://user-images.githubusercontent.com/66934377/159104139-c785c7d6-63bd-403c-8c98-cfef235a92eb.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/66934377/159104142-d342a80a-cab9-4ed1-9be0-cf04681bb19e.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/66934377/159104147-6bbb2a53-7f6f-4bf2-867b-5660fccc84d6.png)
@@ -32,7 +32,7 @@
 
 ---
 
-### Backend
+## Backend
 ![sqllite](https://user-images.githubusercontent.com/66934377/159217131-07778178-0a73-41c0-af0c-2812278bfd33.png)
 ![icons8-django-48](https://user-images.githubusercontent.com/66934377/159104151-aa46eb8f-9379-4856-913d-22239e5919d5.png)
 ![icons8-nodejs-48](https://user-images.githubusercontent.com/66934377/159104152-969b1a1a-2380-4db8-8fec-7d2ada52ed0f.png)
@@ -40,18 +40,18 @@
 
 
 ---
-### Tools
+## Tools
 ![icons8-visual-studio-code-2019-48](https://user-images.githubusercontent.com/66934377/159104154-6a93fdb6-3e08-4567-b02a-6d5d1b226c9a.png)
 ![icons8-android-studio-48](https://user-images.githubusercontent.com/66934377/159104158-a4eef102-a9f3-47e2-9b86-7129461b31fb.png)
 
 ---
 
-### DevOp's
+## DevOp's
 ![icons8-git-48](https://user-images.githubusercontent.com/66934377/159217286-a871165d-8bc0-40a1-ac07-ed177b386f2d.png)
 
 ---
 
-### Design UI/UX
+## Design UI/UX
 ![figma](https://user-images.githubusercontent.com/66934377/159217359-2b693860-ed25-482a-9164-80314bf3a5e5.png)
 
 
