@@ -55,7 +55,3 @@
 ![figma](https://user-images.githubusercontent.com/66934377/159217359-2b693860-ed25-482a-9164-80314bf3a5e5.png)
 
 
-
-
-
-
