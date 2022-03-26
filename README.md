@@ -28,16 +28,16 @@
 ![icons8-javascript-48](https://user-images.githubusercontent.com/66934377/159104147-6bbb2a53-7f6f-4bf2-867b-5660fccc84d6.png)
 ![icons8-bootstrap-48](https://user-images.githubusercontent.com/66934377/159104149-4010b954-0ae9-4191-a735-761c92fa28da.png)
 ![icons8-react-native-48](https://user-images.githubusercontent.com/66934377/159216890-08502323-5e99-4c9a-8e8e-dbbcc1324f33.png)
-![nextjs](https://user-images.githubusercontent.com/66934377/159943639-1ca3bd36-38db-4ace-a6b8-e5a5300bd992.png)
+![nextjs](https://user-images.githubusercontent.com/66934377/160240974-f0169eba-691a-492e-ac8c-6dff585fe2eb.png)
 
 ---
 
 ## Backend
 
-![nextjs](https://user-images.githubusercontent.com/66934377/159943639-1ca3bd36-38db-4ace-a6b8-e5a5300bd992.png)
-![sqlite3](https://user-images.githubusercontent.com/66934377/159944268-a3bb4dba-06b3-42db-902d-bdb685f726c1.png)
-![djangofinal](https://user-images.githubusercontent.com/66934377/159944386-d2911ded-0f32-4bf0-ba11-7ee15ccd14d8.png)
-![node js](https://user-images.githubusercontent.com/66934377/159944506-fa45627c-35e1-4936-b407-c14588902813.png)
+![nextjs](https://user-images.githubusercontent.com/66934377/160240974-f0169eba-691a-492e-ac8c-6dff585fe2eb.png)
+![sqllite](https://user-images.githubusercontent.com/66934377/160241013-7deb3e23-2e07-49f4-9544-4bb2b5268787.png)
+![djnagobaccut](https://user-images.githubusercontent.com/66934377/160241041-9e9b591e-8de0-45fa-93c6-90e2706ac900.png)
+![nodejs](https://user-images.githubusercontent.com/66934377/160241049-c7786428-ab04-4c51-bf5d-fcff434db273.png)
 
 ---
 ## Tools
