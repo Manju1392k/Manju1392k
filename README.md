@@ -54,4 +54,7 @@
 ## Design UI/UX
 ![figma](https://user-images.githubusercontent.com/66934377/159217359-2b693860-ed25-482a-9164-80314bf3a5e5.png)
 
+---
+
+![followmegithubgif](https://user-images.githubusercontent.com/66934377/163711441-6e9adca1-cadd-4631-8683-a6039cef748a.gif)
 
