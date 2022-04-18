@@ -5,9 +5,9 @@
 
 ### 🔭 I’m currently working on Html,Css,Javascript,Django
 ### 🌱 I’m currently learning Node.js
-### 👯 I’m looking to collaborate on Google,IBM,Tesla.
+### 👯 I’m looking to collaborate on **Google,IBM,Tesla.**
 ### 💬 Ask me about FontEnd,BackEnd or any Gadgets information like Pc's,Laptop's,Phones etc 
-### 📫 How to reach me: Twitter *ClickThis* 👉 <a href='https://twitter.com/FSDev1392k' target='_blank'>TwitterLink</a>
+### 📫 How to reach me:By Usering Twitter *ClickThis* 👉 <a href='https://twitter.com/FSDev1392k' target='_blank'>TwitterLink</a>
 ### ⚡ Fun fact: I know it's crazy, but I love to Code 10 Hours in a day.
 
 ---
