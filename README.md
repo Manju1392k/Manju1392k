@@ -12,11 +12,19 @@
 
 ---
 
+<div align="center">
+  
 ![Manju1392k GitHub stats](https://github-readme-stats.vercel.app/api?username=Manju1392k&show_icons=true)
+  
+  </div>
 
 ---
 
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manju1392k)](https://github.com/Manju1392k/github-readme-stats)
+  
+  </div>
 
 ---
 
