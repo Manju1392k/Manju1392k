@@ -3,6 +3,9 @@
 ---
 # Hello, I'm Sreeram Manjunath 👋
 
+<a href="https://www.github.com/manju1392k" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/manju1392k?logo=github&style=for-the-badge&color=#fff&labelColor=1c1917" /></a>
+
 ### 🔭 I’m currently working on Html,Css,Javascript,Django
 ### 🌱 I’m currently learning Node.js
 ### 👯 I’m looking to collaborate on **Google,IBM,Tesla.**
@@ -24,6 +27,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manju1392k)](https://github.com/Manju1392k/github-readme-stats)
   
+  </div>
+
+---
+
+<div align="center">
+  
+<a href="http://www.github.com/manju1392k"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manju1392k&stroke=ffffff&background=#fff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ 
   </div>
 
 ---
