@@ -19,4 +19,28 @@ src="https://img.shields.io/github/followers/manju1392k?logo=github&style=for-th
 
 ---
 
+<div align='center'>
+
+  <a href="http://www.github.com/Manju1392k"><img src="https://github-readme-stats.vercel.app/api?username=Manju1392k&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="Manju1392k's GitHub stats" /></a>
+  
+  </div>
+  
+ ---
+ 
+ <div align='center'>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manju1392k)](https://github.com/Manju1392k/github-readme-stats)
+  
+  </div>
+ 
+ ---
+ 
+ <div align='center'>
+  
+  <a href="http://www.github.com/manju1392k"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manju1392k&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+  
+  </div>
+ 
+ ---
+
 ![followmegithubtwo](https://user-images.githubusercontent.com/66934377/163815256-d6911cf8-6fd0-47fc-aedc-23d88159f8da.gif)
