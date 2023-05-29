@@ -42,5 +42,3 @@ src="https://img.shields.io/github/followers/manju1392k?logo=github&style=for-th
   </div>
  
  ---
-
-![followmegithubtwo](https://user-images.githubusercontent.com/66934377/163815256-d6911cf8-6fd0-47fc-aedc-23d88159f8da.gif)
