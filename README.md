@@ -7,8 +7,7 @@
 ---
 <div align='center'>
 
-Hi, 👋 My name is Sreeram Manjunath
-==================================
+# Hi, 👋 My name is Sreeram Manjunath
 
 </div>
 
