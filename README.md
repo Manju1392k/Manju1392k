@@ -7,15 +7,15 @@
 ---
 <div align='center'>
 
-# Hi, 👋 My name is Sreeram Manjunath
+Hi, 👋 My name is Sreeram Manjunath
 
 </div>
 
 <a href="https://www.github.com/manju1392k" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/manju1392k?logo=github&style=for-the-badge&color=#fff&labelColor=1c1917"></a>
 
-### Coding is my passion. 
-### I love building new applications and websites.
+Coding is my passion. 
+I love building new applications and websites.
 
 ---
 
