@@ -38,11 +38,4 @@ src="https://img.shields.io/github/followers/manju1392k?logo=github&style=for-th
   </div>
  
  ---
- 
- <div align='center'>
-  
-  <a href="http://www.github.com/manju1392k"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manju1392k&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true"></a>
-  
-  </div>
- 
- ---
+
