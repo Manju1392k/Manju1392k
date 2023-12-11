@@ -7,7 +7,7 @@
 ---
 <div align='center'>
 
-**<h1 align="center">Hi 👋, I'm Sreeram Manjunath</h1>**
+__*<h1 align="center">Hi ![waving-hand-joypixels (2)](https://github.com/Manju1392k/Manju1392k/assets/66934377/3676734b-c403-47a7-93c9-d10c58cb1d64) , I'm Sreeram Manjunath</h1>*__
 
 ![gif](https://github.com/Manju1392k/Manju1392k/assets/66934377/f4df605b-4f24-4bc3-b0e0-25911d9874e5)
 
@@ -18,8 +18,8 @@
 <a href="https://www.github.com/manju1392k" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/manju1392k?logo=github&style=for-the-badge&color=#fff&labelColor=1c1917"></a>
 
-*  Coding is my passion. 
-* I love building new applications and websites.
+*  __Coding is my passion.__
+* __I love building new applications and websites.__
 
 ---
 
