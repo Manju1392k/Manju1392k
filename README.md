@@ -9,6 +9,8 @@
 
 **Hi, 👋 My name is Sreeram Manjunath**
 
+**<h1 align="center">Hi 👋, I'm Sreeram Manjunath</h1>**
+
 ![gif](https://github.com/Manju1392k/Manju1392k/assets/66934377/f4df605b-4f24-4bc3-b0e0-25911d9874e5)
 
 </div>
