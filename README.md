@@ -7,7 +7,7 @@
 
 <div align="center">
 
-I'm a results driven **Full-Stack Developer** with 4+ years of freelance experience building end-to-end web solutions. I specialize in building high performance applications with **React, Next.js, Node.js, and Django**. 
+### I'm a results driven **Full-Stack Developer** with 4+ years of freelance experience building end-to-end web solutions. I specialize in building high performance applications with **React, Next.js, Node.js, and Django**. 
 
 </div>
 
