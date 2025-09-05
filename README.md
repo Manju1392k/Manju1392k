@@ -14,7 +14,7 @@ I'm a results driven **Full-Stack Developer** with 4+ years of freelance experie
 *   🔭 I am currently applying my skills to new projects and seeking a full-time role.
 *   🌱 I’m deepening my knowledge of cloud deployment and DevOps practices.
 *   💬 Ask me about: `React`, `Next.js`, `Node.js`, `Express`, `Django`, `Python`, `JavaScript`
-*   📫 **How to reach me:** You can connect with me on <a target="_blank" href="https://www.linkedin.com/in/manjunath139/"> **Linked** </a>
+*   📫 **How to reach me:** You can connect with me on <a href="https://www.linkedin.com/in/manjunath139/" target="_blank">**LinkedIn**</a>
 
 ---
 
