@@ -24,7 +24,7 @@ I'm a results driven **Full-Stack Developer** with 4+ years of freelance experie
 
 | Frontend                                       | Backend                                            | Databases              | Tools & Platforms                            |
 | ---------------------------------------------- | -------------------------------------------------- | ---------------------- | -------------------------------------------- |
-| <h5 align='center' > React, Next.js, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap </h5> | <h5 align='center' > Node.js, Express.js, Python, Django, RESTful APIs </h5>  | <h5 align='center' > MongoDB, PostgreSQL </h5> | <h5 align='center'> Git, GitHub, Docker, AWS (S3), Vercel </h5>|
+| <h4 align='center' > React, Next.js, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap </h4> | <h4 align='center' > Node.js, Express.js, Python, Django, RESTful APIs </h4>  | <h4 align='center' > MongoDB, PostgreSQL </h4> | <h4 align='center'> Git, GitHub, Docker, AWS (S3), Vercel </h4>|
 
 </div>
 
