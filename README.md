@@ -5,7 +5,11 @@
 
 </div>
 
-I'm a results driven **Full-Stack Developer** with 4+ years of freelance experience building end-to-end web solutions. I specialize in building high performance applications with **React, Next.js, Node.js, and Django**.
+<div align="center">
+
+I'm a results driven **Full-Stack Developer** with 4+ years of freelance experience building end-to-end web solutions. I specialize in building high performance applications with **React, Next.js, Node.js, and Django**. 
+
+</div>
 
 *   🔭 I am currently applying my skills to new projects and seeking a full-time role.
 *   🌱 I’m deepening my knowledge of cloud deployment and DevOps practices.
@@ -20,7 +24,7 @@ I'm a results driven **Full-Stack Developer** with 4+ years of freelance experie
 
 | Frontend                                       | Backend                                            | Databases              | Tools & Platforms                            |
 | ---------------------------------------------- | -------------------------------------------------- | ---------------------- | -------------------------------------------- |
-| React, Next.js, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap           | Node.js, Express.js, Python, Django, RESTful APIs  | MongoDB, PostgreSQL    | Git, GitHub, Docker, AWS (S3), Vercel        |
+| <h5 align='center' > React, Next.js, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap </h5> | <h5 align='center' > Node.js, Express.js, Python, Django, RESTful APIs </h5>  | <h5 align='center' > MongoDB, PostgreSQL </h5> | <h5 align='center'> Git, GitHub, Docker, AWS (S3), Vercel </h5>|
 
 </div>
 
